@@ -1,0 +1,6 @@
+1. git init -->63this will makes any folder as git project
+2. git add .
+3. git commit -m "initial commit" -->02865909 to commit all files locally not in git 
+4. git remote add origin https://github.com/ArukondaShiva/flexbox-mediaqueries.git
+5. git remote set -url origin https://ArukondaShiva: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@github.com/ArukondaShiva/flexbox-mediaqueries.git
+6. git push --set-upstream origin master /7396600824/
